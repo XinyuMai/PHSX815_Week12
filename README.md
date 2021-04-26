@@ -5,10 +5,10 @@ In this HW, we use the dataset provided at https://public.tableau.com/en-us/s/re
 
 Through this analysis, we want to know:
 
-1) Does a high acceptance rate imply a university is preferred among students?
-2) Do students favor for public universities or private university?
-3) What is the change of preference when students are pursuing different types of degree?
-4) Also, we want to create a neutral network model to predict number of applications based on universities features, eg: university tuition cost and living expenses
+* Does a high acceptance rate imply a university is preferred among students?
+* Do students favor for public universities or private university?
+* What is the change of preference when students are pursuing different types of degree?
+* Also, we want to create a neutral network model to predict number of applications based on universities features, eg: university tuition cost and living expenses
 
 * detailed analysis see `HW12.ipynb`
 
